@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deadshot339
 - 👀 I’m interested in coding, listening to music and Sport.
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript and React JS
 - 💞️ I’m looking to collaborate on every Front-end Projects
 - 📫 Discord : deadshvt
 - 😄 Pronouns: He/him
