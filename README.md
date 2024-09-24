@@ -45,6 +45,6 @@ Feel free to get in touch with me if you have any questions, suggestions, or col
 | Familer  | Technologys |
 | ---      | ---         |
 | Frameworks       | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />  |
-| Languages       | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/css-3_732190" width="36" height="36" alt="Javascript" /></a>
+| Languages       | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
