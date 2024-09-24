@@ -1,0 +1,162 @@
+/*Code made by deadshot339. Copying the code and sharing the code as your own is not allowed!*/
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+.titan-one-regular {
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+body {
+    height: 100vh;
+    background: linear-gradient(45deg, #39213f, #412d5c);
+    color: white;
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+    transition: 1s ease-in;
+    margin: 0;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 4vw;
+    user-select: none;
+    cursor: default;
+}
+h2 {
+    color: white;
+    font-size: 3vw;
+    margin: 0;
+    padding: 15px;
+    font-family: "Titan One", sans-serif;
+    font-weight: 100;
+    cursor: default;
+    user-select: none;
+}
+.navbar {
+    background-color: rgb(195, 0, 255);
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.To-do {
+    width: 45%;
+    height: auto;
+    background-color: #333333;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.taskInput {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 4vh;
+    width: 20vw;
+    margin: 2vh 0px 2vh 0px;
+    border-radius: 5px;
+    background: transparent;
+    border: 0;
+    transition: 0.5s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+    color: white;
+    font-size: 2vw;
+    border-bottom: 1px solid #CCC;
+}
+.taskInput:focus {
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid rgb(195, 0, 255);
+}
+#handleAddTask {
+    color: white;
+    font-size: 2vw;
+    width: 7vw;
+    height: auto;
+    background-color: rgb(195, 0, 255);
+    font-family: "Titan One", sans-serif;
+    border-radius: 10px;
+    transition: 0.3s ease;
+    margin-bottom: 10px;
+    margin-top: 1vh;
+}
+#handleAddTask:hover {
+    background-color: rgb(98, 0, 122);
+}
+#clearTasks {
+    color: white;
+    font-size: 1.2vw;
+    width: 7vw;
+    height: auto;
+    background-color: rgb(195, 0, 255);
+    font-family: "Titan One", sans-serif;
+    border-radius: 10px;
+    transition: 0.3s ease;
+    margin-bottom: 10px;
+    margin-top: 1vh;
+}
+#clearTasks:hover {
+    background-color: rgb(98, 0, 122);
+}
+.tasks {
+    width: 60%;
+    height: auto;
+    background-color: rgb(195, 0, 255);
+    border-radius: 5px;
+    font-size: 2vw;
+}
+.tasks span {
+    margin-left: 10px;
+    font-family: "Titan One", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    margin: 10px;
+    cursor: pointer;
+    width: auto;
+}
+#delete {
+    margin-right: 15px;
+    background-color: red;
+    border-radius: 100%;
+    width: 2vw;
+    height: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1vw;
+    font-family: "Titan One", sans-serif;
+    border: 1px solid red;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+#delete:hover {
+    color: white;
+    text-decoration: underline;
+}
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    user-select: none;
+    border: 0.1vw solid rgb(98, 0, 122);
+}
+.madeBy {
+    font-size: 15px;
+    font-family: "Titan One", sans-serif;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    margin-top: 50vh;
+}
