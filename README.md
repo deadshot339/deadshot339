@@ -12,7 +12,7 @@
 6 years of experience didn't give me much projects. I have only 1 project right now and I am working on next project.
 
 1. To-do app
-It is very simple. Some Html, css, javascript. [GitHub Repository](https://github.com/olipramarcin/OlipraMarcin/Projects/To-do%20App)
+It is very simple. Some Html, css, javascript.
 
 <!--   GitHub stats graph -->
 <div align="center">
