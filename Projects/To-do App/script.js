@@ -1,4 +1,4 @@
-/*Code made by deadshot339. Copying the code and sharing the code as your own is not allowed!*/
+/*Code made by Olipra Marcin. Copying the code and sharing the code as your own is not allowed!*/
 document.addEventListener('DOMContentLoaded', function () {
     const taskInput = document.getElementById("taskInput");
     const handleAddTask = document.getElementById("handleAddTask");
