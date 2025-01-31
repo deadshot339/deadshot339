@@ -4,7 +4,7 @@
 
 ## About Me
 - 🌍  I am from Cracow in Poland
-- ✉️  You can reach me at [olipramarcin@gmail.com](mailto:olipramarcin@gmail.com) or using discord deadshvt.
+- ✉️  You can reach me at [olipramarcin@gmail.com](mailto:olipramarcin@gmail.com) or using discord deadshvt339.
 - 🧠  I am 15 years old. I can speek Polish and English very well.
 
 ## Projects
